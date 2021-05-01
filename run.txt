@@ -1,0 +1,1 @@
+g++ chess.cpp -o chess-app -lsfml-graphics -lsfml-window -lsfml-system && ./chess-app
